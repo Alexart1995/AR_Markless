@@ -4,11 +4,11 @@ My first Android Markless AR app using Unity and Vuforia <br>
 
 Box 
 
-<img src="https://github.com/Alexart1995/AR_Markless/blob/main/Box.gif" width="480" height="800">
+<img src="https://github.com/Alexart1995/AR_Markless/blob/main/Box.gif" width="240" height="400">
 
 Car
 
-<img src="https://github.com/Alexart1995/AR_Markless/blob/main/CAR_M.gif" width="480" height="800">
+<img src="https://github.com/Alexart1995/AR_Markless/blob/main/CAR_M.gif" width="240" height="400">
 
 ## Description
 - Create Vuforia account and import Vuforia SDK
