@@ -4,7 +4,7 @@ My first Android Markless AR app using Unity and Vuforia <br>
 
 Box 
 
-<img src="https://github.com/Alexart1995/AR_Markless/blob/main/Box.gif" width="480" height="320">
+<img src="https://github.com/Alexart1995/AR_Markless/blob/main/Box.gif" width="480" height="800">
 
 Car
 
